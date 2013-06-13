@@ -15,7 +15,7 @@ The goal of the project was to create a CUDA program that would perform the conn
 #### Example
 
 Here is an example of what the program is doing:
-
+ 
 ![Input image](./example/input.png "Input")       ![Output image](./example/output.png "Output")
 
 #### Overview of the repo
